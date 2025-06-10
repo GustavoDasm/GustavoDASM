@@ -25,9 +25,9 @@
 <!-- Añade más proyectos que quieras destacar -->
 
 ## 📫 Contáctame
-- LinkedIn: [Tu perfil de LinkedIn](https://www.linkedin.com/in/gusmamani)
-- Email: [tu-email@ejemplo.com](mailto:gusmamaniai@gmail.com)
-- Portfolio: [tu-portfolio.com](https://tu-portfolio.com) En proceso
+- LinkedIn: [Gustavo Alonso Mamani Chambi](https://www.linkedin.com/in/gusmamani)
+- Email: [gusmamaniai@gmail.com](mailto:gusmamaniai@gmail.com)
+- Portfolio: [Portafolio en proceso](https://tu-portfolio.com) En proceso
 
 ## 📈 Actividad
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/GustavoDasm/GustavoDASM)

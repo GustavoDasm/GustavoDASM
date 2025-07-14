@@ -21,7 +21,7 @@
 - Desarrollo de APIs 
 
 ## 🔭 Proyectos Destacados
-- [PracticaEnEmpresa](https://github.com/GustavoDasm/PracticaEnEmpresa) - Mis primera prácticas con angular
+- [PracticaEnEmpresa](https://github.com/GustavoDasm/PracticaEnEmpresa) - Mis primeras prácticas con angular
 <!-- Añade más proyectos que quieras destacar -->
 
 ## 📫 Contáctame

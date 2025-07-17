@@ -26,7 +26,7 @@
 <!-- Añade más proyectos que quieras destacar -->
 
 ## 📫 Contáctame
-- LinkedIn: [Gustavo Alonso Mamani Chambi](https://www.linkedin.com/in/gusmamani)
+- LinkedIn: [Gustavo Mamani](https://www.linkedin.com/in/gusmamani)
 - Email: [gusmamaniai@gmail.com](mailto:gusmamaniai@gmail.com)
 - Portfolio: [Portafolio en proceso](https://tu-portfolio.com) En proceso
 

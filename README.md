@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Gustavo
+# 👋 ¡Hola! Soy Gustavo, vendedor de papas peruanas en línea
 
 ## 👨‍💻 Sobre mí
 - 💻 **Ingeniero de Software**

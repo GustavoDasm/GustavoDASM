@@ -22,7 +22,7 @@
 
 ## 🔭 Proyectos Destacados
 - [PracticaEnEmpresa](https://github.com/GustavoDasm/PracticaEnEmpresa) - Mis primeras prácticas con angular
-- [Sistema con Chatbot Local](http:) - Creacion de mi propio MCP conectado al API propio, con Python, Typescrip, ollama. 
+- [Sistema con Chatbot Local](https://github.com/GustavoDasm/proyectoConChatbot) - Creacion de mi propio MCP conectado al API propio, con Python, Typescrip, ollama. 
 <!-- Añade más proyectos que quieras destacar -->
 
 ## 📫 Contáctame

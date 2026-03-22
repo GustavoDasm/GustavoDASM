@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Gustavo
 ## 👨‍💻 Sobre mí
 - 💻 **Ingeniero de Software**
-- 📚 **Estudiante de Senati**
+- 📚 **Egresado Técnico en la carrera de Ingenieria de Software con IA**
 - 🚀 **Apasionado por aprender nuevas tecnologías**
 - 🎮 **Gamer**, 🎵 **Melómano** y 💻 **Programador**
 
@@ -16,12 +16,13 @@
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=GustavoDasm&show_icons=true&theme=radical)
 
 ## 🌱 Actualmente estoy aprendiendo
-- Desarrollo de aplicaciones con Angular
+- Desarrollo de aplicaciones Full Stack
 - Agentes, MCP, IA
 - Desarrollo de APIs 
 
 ## 🔭 Proyectos Destacados
 - [PracticaEnEmpresa](https://github.com/GustavoDasm/PracticaEnEmpresa) - Mis primeras prácticas con angular
+- [Sistema con Chatbot Local](http:) - Creacion de mi propio MCP conectado al API propio, con Python, Typescrip, ollama. 
 <!-- Añade más proyectos que quieras destacar -->
 
 ## 📫 Contáctame

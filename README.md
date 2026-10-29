@@ -18,7 +18,8 @@
 - IA Asistida y Agentes Inteligentes
 
 ## 🔭 Proyectos Destacados
-- [PracticaEnEmpresa](https://github.com/GustavoDasm/PracticaEnEmpresa) - Mis primeras prácticas con angular 19
+- [PracticaEnEmpresa](https://github.com/GustavoDasm/PracticaEnEmpresa) - Primeras prácticas con Angular.
+- [TiendaVirtual](https://github.com/GustavoDasm/tiendaVirtual) - Primero proyecto Angular.
 - [Sistema con Chatbot Local](https://github.com/GustavoDasm/proyectoConChatbot) - Creación de un Model Context Protocol (MCP) personalizado conectado a una API propia, utilizando Ollama para LLMs locales, Python y TypeScript. 
 <!-- Añade más proyectos que quieras destacar -->
 

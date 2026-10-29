@@ -14,12 +14,12 @@
 
 ## 🌱 Actualmente estoy aprendiendo
 - Desarrollo de aplicaciones Full Stack
-- Agentes, MCP, IA
-- Desarrollo de APIs 
+- Arquitectura de Software, IA
+- IA Asistida y Agentes Inteligentes
 
 ## 🔭 Proyectos Destacados
-- [PracticaEnEmpresa](https://github.com/GustavoDasm/PracticaEnEmpresa) - Mis primeras prácticas con angular
-- [Sistema con Chatbot Local](https://github.com/GustavoDasm/proyectoConChatbot) - Creacion de mi propio MCP conectado al API propio, con Python, Typescrip, ollama. 
+- [PracticaEnEmpresa](https://github.com/GustavoDasm/PracticaEnEmpresa) - Mis primeras prácticas con angular 19
+- [Sistema con Chatbot Local](https://github.com/GustavoDasm/proyectoConChatbot) - Creación de un Model Context Protocol (MCP) personalizado conectado a una API propia, utilizando Ollama para LLMs locales, Python y TypeScript. 
 <!-- Añade más proyectos que quieras destacar -->
 
 ## 📫 Contáctame
@@ -27,6 +27,4 @@
 - Email: [gusmamaniai@gmail.com](mailto:gusmamaniai@gmail.com)
 - Portfolio: [Portafolio en proceso](https://tu-portfolio.com) En proceso
 
-## 📈 Actividad
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/GustavoDasm/GustavoDASM)
 

@@ -12,9 +12,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=.net&logoColor=white)
 
-## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=GustavoDasm&show_icons=true&theme=radical)
-
 ## 🌱 Actualmente estoy aprendiendo
 - Desarrollo de aplicaciones Full Stack
 - Agentes, MCP, IA

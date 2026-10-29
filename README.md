@@ -21,7 +21,7 @@
 - [PracticaEnEmpresa](https://github.com/GustavoDasm/PracticaEnEmpresa) - Primeras prácticas con Angular.
 - [TiendaVirtual](https://github.com/GustavoDasm/tiendaVirtual) - Primero proyecto Angular.
 - [Sistema con Chatbot Local](https://github.com/GustavoDasm/proyectoConChatbot) - Creación de un Model Context Protocol (MCP) personalizado conectado a una API propia, utilizando Ollama para LLMs locales, Python y TypeScript.
-- [ProyectoFinalVenin](https://github.com) - **Aplicación Full Stack.** Arquitectura cliente-servidor desacoplada con un Backend robusto para la lógica de negocio con Python (Django) y un Frontend modular de alto rendimiento en Angular.
+- [ProyectoFinalVenin](https://github.com/GustavoDasm/ProyectoFinalVenin) - **Aplicación Full Stack.** Arquitectura cliente-servidor desacoplada con un Backend robusto para la lógica de negocio con Python (Django) y un Frontend modular de alto rendimiento en Angular.
 
 
 <!-- Añade más proyectos que quieras destacar -->
